@@ -95,11 +95,13 @@ result = permutation_importance(model, X_test, y_test, n_repeats=10, random_stat
 ---
 
 ## Power BI 시각화 통합
+<img width="1295" height="733" alt="image" src="https://github.com/user-attachments/assets/00480083-87bd-4125-a02d-b05449a30ae4" />
+
 
 ### 대시보드 개요
 **제주 특산물 가격 예측을 위한 시장 구조 파악**
 
-![Power BI Dashboard](602eec40-70ca-4991-a416-c5e536402b82.png)
+
 
 | 구성 요소 | 설명 |
 |------------|------|
