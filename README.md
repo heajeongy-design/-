@@ -95,7 +95,7 @@ result = permutation_importance(model, X_test, y_test, n_repeats=10, random_stat
 ---
 
 ## Power BI 시각화 통합
-<img width="1295" height="733" alt="image" src="https://github.com/user-attachments/assets/00480083-87bd-4125-a02d-b05449a30ae4" />
+<img width="1294" height="733" alt="image" src="https://github.com/user-attachments/assets/50bfbf8a-3109-4d79-a56c-bbae01e73ab3" />
 
 
 ### 대시보드 개요
