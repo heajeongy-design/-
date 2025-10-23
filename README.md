@@ -161,8 +161,6 @@ Ridge는 다중공선성 완화 효과로 안정적인 예측력을 보여줬으
 
 ## 6. Boosting & Stacking (머신러닝 예측 모델)
 
-![stack](https://github.com/user-attachments/assets/a58f3715-f8a5-4fa6-9a4b-77a5c3170875)
-
 **구성:**  
 - Base Layer: LightGBM, XGBoost, GradientBoosting  
 - Meta Model: CatBoost  
