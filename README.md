@@ -169,7 +169,7 @@ Ridge는 다중공선성 완화 효과로 안정적인 예측력을 보여줬으
 - 성능: R² ≈ 0.80, RMSE 안정적
 
 **Feature Importance 결과:**  
-![importance](https://github.com/user-attachments/assets/c1593885-37c3-4f57-ab47-75a4c9796d51)
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/a6d6efd1-f771-4505-af77-82c6b6e4ed20" />
 
 - 주요 영향 변수: `item`, `corporation`, `location`  
 - `supply(kg)`보다 범주형 요인(거래 주체, 품목)이 결정적  
