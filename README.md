@@ -168,8 +168,8 @@ Ridge는 다중공선성 완화 효과로 안정적인 예측력을 보여줬으
 - Meta Model: CatBoost  
 - 성능: R² ≈ 0.80, RMSE 안정적
 
-**Feature Importance 결과:**  
-<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/a6d6efd1-f771-4505-af77-82c6b6e4ed20" />
+**Feature Importance 결과:**  =
+<img width="989" height="790" alt="image" src="https://github.com/user-attachments/assets/497acd6e-d030-4604-8efd-bbdd67914b5a" />
 
 - 주요 영향 변수: `item`, `corporation`, `location`  
 - `supply(kg)`보다 범주형 요인(거래 주체, 품목)이 결정적  
